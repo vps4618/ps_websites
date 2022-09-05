@@ -1,0 +1,10 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: repeat-x;
+}
+img{
+    display: inline;
+}
+id{
+    color: aliceblue;
+}
